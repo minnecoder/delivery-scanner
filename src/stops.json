@@ -1,0 +1,38 @@
+[
+    {
+    "custName": "Some Co Inc.",
+    "contact": "Bill Larson",
+    "address": "1234 Main St.",
+    "city": "Minneapolis",
+    "packages": 3,
+    "deliveryType": "delivery"
+    
+},
+{
+    "custName": "Savers",
+    "contact": "Jane Doe",
+    "address": "464 Snelling Ave",
+    "city": "Minneapolis",
+    "packages": 8,
+    "deliveryType": "pickup"
+    
+},
+{
+    "custName": "AMC",
+    "contact": "Dean Johnson",
+    "address": "18500 Coon Rapids Blvd",
+    "city": "Minneapolis",
+    "packages": 2,
+    "deliveryType": "delivery"
+    
+},
+{
+    "custName": "That Company",
+    "contact": "Sarah Deacon",
+    "address": "1234 Universtiy Ave",
+    "city": "Minneapolis",
+    "packages": 1,
+    "deliveryType": "delivery"
+    
+}
+]

@@ -18,7 +18,6 @@ export default function PickRoute() {
     <div>
       <h2>Select Route</h2>
       <p>Please select a route from the list below</p>
-      <input type="search" />
       <div>
         <ul>
           {routes.map((route) => (<li key={route.id}>{route.route_name}</li>))}
